@@ -8974,6 +8974,13 @@ react-app-polyfill@^2.0.0:
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
 
+react-app-rewired@^2.1.8:
+  version "2.1.8"
+  resolved "https://registry.yarnpkg.com/react-app-rewired/-/react-app-rewired-2.1.8.tgz#e192f93b98daf96889418d33d3e86cf863812b56"
+  integrity sha512-wjXPdKPLscA7mn0I1de1NHrbfWdXz4S1ladaGgHVKdn1hTgKK5N6EdGIJM0KrS6bKnJBj7WuqJroDTsPKKr66Q==
+  dependencies:
+    semver "^5.6.0"
+
 react-dev-utils@^11.0.3:
   version "11.0.4"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-11.0.4.tgz#a7ccb60257a1ca2e0efe7a83e38e6700d17aa37a"
@@ -10690,6 +10697,11 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typescript@^4.4.4:
+  version "4.4.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.4.tgz#2cd01a1a1f160704d3101fd5a58ff0f9fcb8030c"
+  integrity sha512-DqGhF5IKoBl8WNf8C1gu8q0xZSInh9j1kJJMqT3a94w1JzVaBU4EXOSMrz9yDqMT0xt3selp83fuFMQ0uzv6qA==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
